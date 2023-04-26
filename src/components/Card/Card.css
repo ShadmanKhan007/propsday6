@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space;
+    flex-direction: column;
+    max-width: 450px;
+}
+
+.heading-3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.para {
+    font-size: 12px;
+    width: 60%;
+}
+
+.price {
+    font-weight: 500;
+    color: orange;
+}
+
+.rating {
+    font-size: 12px;
+    color: rgb(255, 106, 0);
+    font-weight: 400;
+}
+
+.btn {
+    background-color: rgb(255, 106, 0); 
+    width: 60%;
+    padding: 10px;
+}
